@@ -1,6 +1,6 @@
 # stat440-data-project
 ## proposal
-1. The names of the students who will be contributing to the group project.
+1. The names of the students who will be contributing to the group project.  
 zixuan Shao
 2. A tentative title for the project.
 
